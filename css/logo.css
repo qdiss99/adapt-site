@@ -1,0 +1,16 @@
+.logo-section {
+  background: #34547A;
+  padding: 40px 0;
+}
+.logo-section__list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+}
+.logo-section__item img {
+  width: 60px;
+  height: auto;
+}
+
+/*# sourceMappingURL=logo.css.map */

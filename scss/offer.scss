@@ -1,0 +1,19 @@
+.offer {
+  background: $offer;
+  padding: 100px 0 60px;
+  text-align: center;
+
+  &__title {
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+
+  &__description {
+    max-width: 600px;
+    margin: 0 auto 30px;
+    color: $offer-description;
+  }
+}
+
+
+

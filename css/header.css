@@ -1,0 +1,22 @@
+.header {
+  background: #fff;
+  padding: 20px 0;
+}
+.header__list {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  list-style: none;
+}
+.header__link {
+  text-decoration: none;
+  color: #000;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+.header__link--active {
+  color: #34547A;
+  font-weight: 500;
+}
+
+/*# sourceMappingURL=header.css.map */

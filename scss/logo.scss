@@ -1,0 +1,19 @@
+.logo-section {
+  background: $backgroundcolor;
+  padding: 40px 0;
+
+  &__list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+  }
+
+  &__item {
+    img {
+      width: 60px;
+      height: auto;
+      width: auto;
+    }
+  }
+}
